@@ -81,7 +81,7 @@ CLASS_NAMES = ['exit', 'next', 'prev']
 GESTURE_INFO = {
     'next': ('>> NEXT SLIDE', '#4ade80', '☞ Index finger pointing RIGHT'),
     'prev': ('<< PREV SLIDE', '#fb923c', '☜ Index finger pointing LEFT'),
-    'exit': ('PINCH — EXIT',  '#a78bfa', '🤌 Thumb + index finger touching'),
+    'exit': ('OPEN PALM — EXIT',  '#a78bfa', '🤌 Thumb + index finger touching'),
 }
 
 # ── Upload section ────────────────────────────────────────────────────────────
