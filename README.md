@@ -14,7 +14,7 @@ Live Demo:  [gestureflow-5jed74zbad9txbrjdxtkzk.streamlit.app](https://gesturefl
 | -------- | -------------------------------------------- | ------------------------------ |
 | **next** | Point index finger to the RIGHT →            | Next slide                     |
 | **prev** | Point index finger to the LEFT ←             | Previous slide                 |
-| **exit** | Pinch — hold thumb + index together for 1.5s | Close PowerPoint + stop camera |
+| **exit** | Open palm — hold for 0.5 secs | Close PowerPoint + stop camera |
 
 ---
 
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 python dataset_capture.py
 ```
 
-- Press `1` → exit gesture (pinch)
+- Press `1` → exit gesture (open palm)
 - Press `2` → next gesture (point right)
 - Press `3` → prev gesture (point left)
 - Collect 300 photos per gesture
