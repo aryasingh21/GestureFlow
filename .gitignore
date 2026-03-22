@@ -1,0 +1,31 @@
+# Dataset — too large for GitHub, collect your own
+dataset/
+
+# Trained model — too large for GitHub
+gesture_model.h5
+gesture_model.keras
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# VS Code
+.vscode/
+.zencoder/
+.zenflow/
+
+# Streamlit
+.streamlit/
+
+# App signal file
+.gesture_exit
+
+# Model folder
+model/
+
+# OS files
+.DS_Store
+Thumbs.db

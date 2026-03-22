@@ -1,0 +1,10 @@
+tensorflow==2.13.0
+mediapipe
+opencv-python
+streamlit
+pyautogui
+pygetwindow
+numpy
+Pillow
+scikit-learn
+protobuf==3.20.3
