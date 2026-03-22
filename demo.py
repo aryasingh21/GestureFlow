@@ -59,7 +59,7 @@ GestureFlow uses a Convolutional Neural Network (CNN) trained on hand images to 
 <strong>Gestures:</strong> &nbsp;
 ☞ <strong>next</strong> (point right → next slide) &nbsp;|&nbsp;
 ☜ <strong>prev</strong> (point left → prev slide) &nbsp;|&nbsp;
-🤌 <strong>exit</strong> (pinch → close)
+🤌 <strong>exit</strong> (open palm → close)
 </div>
 """, unsafe_allow_html=True)
 
